@@ -71,7 +71,7 @@ h1{
 }
 
 .btn:hover{
-    background-color: #4f60fe;
+    background-color: #4293da;
     border: 1.5px solid #184c79;
 }
 
@@ -137,7 +137,7 @@ p{
     }
     
     .btn:active{
-        background-color: #4f60fe;
+        background-color: #4293da;
     }
 
     .qr{
